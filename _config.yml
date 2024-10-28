@@ -3,7 +3,7 @@
 
 title: protein molecule interactions predictions documentation
 author: Han & Yang
-logo: logo.png
+logo: protein.jpg
 
 # Force re-execution of notebooks on each build.
 # See https://jupyterbook.org/content/execute.html
